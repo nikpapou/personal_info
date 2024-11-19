@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikpapou
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and Customer Service
 - 🌱 I’m currently learning Python, MySQL, Tableau, PowerBi
 - 💞️ I’m looking to collaborate on data projects that involve cleaning, analyzing, and visualizing data, especially in areas like health and economics
 - 📫 How to reach me [nikpapou@hotmail.com] / (https://www.linkedin.com/in/nikolaos-papountzas/)
